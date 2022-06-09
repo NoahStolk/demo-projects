@@ -28,11 +28,5 @@
 	  <ProjectReference Include="..\ChromelyBlazor.WebAssembly\ChromelyBlazor.WebAssembly.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-		<None Update="chromely.ico">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-	</ItemGroup>
-
 
 </Project>
