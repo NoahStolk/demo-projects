@@ -16,7 +16,7 @@
 		<PackageReference Include="Chromely" Version="5.2.101" />
 		<PackageReference Include="Chromely.Core" Version="5.2.1" />
 		<PackageReference Include="Chromely.Owin" Version="5.2.1" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.5" />
 	</ItemGroup>
 
 </Project>
